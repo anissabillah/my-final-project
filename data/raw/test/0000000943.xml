@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Selected</folder>
+	<filename>0000000943.png</filename>
+	<path>D:\TugasKuliah\ProyekAkhir\Data\KITTI Dataset\Selected\0000000943.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1238</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate_negative</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>221</ymin>
+			<xmax>455</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>196</ymin>
+			<xmax>611</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

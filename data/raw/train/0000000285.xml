@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>0000000285.png</filename>
+	<path>D:\TugasKuliah\ProyekAkhir\Data\KITTI Dataset\2011_10_03_drive_0047_sync\image_02\data\0000000285.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1241</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate_negative</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>212</ymin>
+			<xmax>492</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>201</ymin>
+			<xmax>605</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
