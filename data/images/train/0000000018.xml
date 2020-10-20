@@ -12,30 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>772</xmin>
-			<ymin>253</ymin>
-			<xmax>808</xmax>
-			<ymax>262</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>693</xmin>
-			<ymin>207</ymin>
-			<xmax>711</xmax>
-			<ymax>212</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>plate_positive</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -45,42 +21,6 @@
 			<ymin>189</ymin>
 			<xmax>604</xmax>
 			<ymax>192</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>471</xmin>
-			<ymin>204</ymin>
-			<xmax>489</xmax>
-			<ymax>209</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>322</xmin>
-			<ymin>254</ymin>
-			<xmax>360</xmax>
-			<ymax>262</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>202</xmin>
-			<ymin>214</ymin>
-			<xmax>228</xmax>
-			<ymax>220</ymax>
 		</bndbox>
 	</object>
 </annotation>

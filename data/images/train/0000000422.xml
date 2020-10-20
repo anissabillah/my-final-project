@@ -1,7 +1,7 @@
 <annotation>
-	<folder>data</folder>
+	<folder>train</folder>
 	<filename>0000000422.png</filename>
-	<path>D:\TugasKuliah\ProyekAkhir\Data\KITTI Dataset\2011_10_03_drive_0047_sync\image_02\data\0000000422.png</path>
+	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v1\train\0000000422.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>plate_negative</name>
+		<name>plate_positive</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>210</xmin>
-			<ymin>244</ymin>
-			<xmax>240</xmax>
-			<ymax>252</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>375</xmin>
-			<ymin>238</ymin>
-			<xmax>411</xmax>
-			<ymax>247</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>468</xmin>
-			<ymin>204</ymin>
-			<xmax>483</xmax>
-			<ymax>209</ymax>
+			<xmin>588</xmin>
+			<ymin>197</ymin>
+			<xmax>599</xmax>
+			<ymax>200</ymax>
 		</bndbox>
 	</object>
 </annotation>

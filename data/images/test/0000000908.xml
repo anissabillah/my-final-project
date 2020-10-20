@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Selected</folder>
+	<folder>test</folder>
 	<filename>0000000908.png</filename>
-	<path>D:\TugasKuliah\ProyekAkhir\Data\KITTI Dataset\Selected\0000000908.png</path>
+	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v1\test\0000000908.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,30 +21,6 @@
 			<ymin>197</ymin>
 			<xmax>625</xmax>
 			<ymax>202</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>535</xmin>
-			<ymin>193</ymin>
-			<xmax>550</xmax>
-			<ymax>198</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate_negative</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>407</xmin>
-			<ymin>229</ymin>
-			<xmax>441</xmax>
-			<ymax>237</ymax>
 		</bndbox>
 	</object>
 </annotation>
