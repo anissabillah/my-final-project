@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>0000000583.png</filename>
-	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v1\train\0000000583.png</path>
+	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v2\train\0000000583.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,6 +11,42 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>209</ymin>
+			<xmax>142</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>243</ymin>
+			<xmax>299</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>197</ymin>
+			<xmax>438</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
 	<object>
 		<name>plate_positive</name>
 		<pose>Unspecified</pose>

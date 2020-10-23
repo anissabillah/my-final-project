@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>0000001001.png</filename>
-	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v1\test\0000001001.png</path>
+	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v2\test\0000001001.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>206</ymin>
 			<xmax>559</xmax>
 			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>280</ymin>
+			<xmax>249</xmax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 </annotation>
