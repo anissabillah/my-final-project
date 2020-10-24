@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Datasets</folder>
+	<filename>ezgif-frame-0024.jpg</filename>
+	<path>D:\TugasKuliah\ProyekAkhir\Data\Datasets\ezgif-frame-0024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>579</ymin>
+			<xmax>633</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>
