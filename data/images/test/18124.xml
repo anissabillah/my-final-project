@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>18124.jpg</filename>
+	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v4\test\18124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>772</ymin>
+			<xmax>764</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>

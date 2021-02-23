@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>13079.jpg</filename>
+	<path>D:\TugasKuliah\ProyekAkhir\datasets\percobaan\1-classes-v4\train\13079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate_positive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>983</xmin>
+			<ymin>914</ymin>
+			<xmax>1157</xmax>
+			<ymax>973</ymax>
+		</bndbox>
+	</object>
+</annotation>
